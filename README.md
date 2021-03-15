@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris 👋
 
 #### Languages and Tools:
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a><img align="left" alt="HTML5" width="26px" src="https://github.com/Nowy334/portfolio/blob/main/img/html.png" /></a>
 <code><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/sass.png"></code>
