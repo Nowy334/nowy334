@@ -3,9 +3,9 @@
 <br />
 
 #### Languages and Tools:
-<a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/html.png"/></a>
+<a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/html.png"></a>
 <a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/css.png"></a>
-<a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/js.png"><</a>
+<a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/js.png"></a>
 <a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/sass.png"></a>
 <a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/vue.png"></a>
 <a><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/c++.png"></a>
