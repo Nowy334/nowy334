@@ -12,7 +12,7 @@
 <a><img align="left" width="26px" src="https://github.com/Nowy334/portfolio/blob/main/img/c.png"></a>
 <a><img align="left" width="26px" src="https://github.com/Nowy334/portfolio/blob/main/img/wordpress.jpg"></a>
 <a><img align="left" width="26px" src="https://github.com/Nowy334/portfolio/blob/main/img/git.png"></a>
-
+<br/>
 ---
 - 🔭 In my spare time, I develop and manage a website for the <a href="https://katya-rg.eu/">Katya RG Leotards</a> company.
 <!--
