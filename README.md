@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋
 
-####Languages and Tools:
+#### Languages and Tools:
 <code><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/html.png"></code>
 <code><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/css.png"></code>
 <code><img height="20" src="https://github.com/Nowy334/portfolio/blob/main/img/js.png"></code>
