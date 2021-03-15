@@ -1,6 +1,7 @@
 ### Hi there, I'm Chris 👋
 <br />
-<br />
+
+---
 
 #### Languages and Tools:
 <a><img align="left" width="26px" src="https://github.com/Nowy334/portfolio/blob/main/img/html.png"></a>
