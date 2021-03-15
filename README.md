@@ -13,7 +13,8 @@
 <a><img align="left" width="26px" src="https://github.com/Nowy334/portfolio/blob/main/img/wordpress.jpg"></a>
 <a><img align="left" width="26px" src="https://github.com/Nowy334/portfolio/blob/main/img/git.png"></a>
 
-
+---
+- 🔭 In my spare time, I develop and manage a website for the <a href="https://katya-rg.eu/">Katya RG Leotards</a> company.
 <!--
 **Nowy334/nowy334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
